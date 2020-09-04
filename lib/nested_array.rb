@@ -45,10 +45,9 @@ def sorted_matrix
   storage_matrix = [[
       "Eggplant",
       "Grapefruit",
-      "Pineapple",
       "Oranges",
-      "Watermelon",
-      
+      "Pineapple",
+      "Watermelon"
     ],
     [
       "Strawberries",
